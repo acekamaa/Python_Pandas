@@ -1,4 +1,5 @@
 # Python_Pandas
 
-pandas_01.ipynb - reflects a jupyter notebook on anaconda
-pandas1.py shows all the codes used in pandas_01.ipynb
+📌 Pandas directory shows my learning progress on pandas as a course on Udemy
+
+📌 PLP_Assign directory contains week 7 PLP Assignment and weekly challenges
