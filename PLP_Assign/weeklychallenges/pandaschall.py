@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the CSV file
-data = pd.read_csv('/sales_data.csv')
+data = pd.read_csv('sales_data.csv')
 
 # Calculate the total revenue
 total_revenue = data['Revenue ($)'].sum()
